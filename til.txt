@@ -1,0 +1,17 @@
+GIT
+
+- Git 관리 폴더 설정하기 (git initialize)
+sourcetree에서 Create -> 폴더 선택 -> 생성
+
+삭제하기
+sourcetree 에서만 안 보이게 하려면 북마크를 제거하세요
+컴퓨터에서까지 삭제하려면 디스크에 있는 저장소를 삭제하세요
+
+- commit 하기
+커밋할 파일 스테이지에 올리기(add, staging) -> commit 메세지 작성 -> 커밋
+
+- 원격 repo 사용하기
+내 컴퓨터에 저장되어있는 리포지토리를 로컬 repo(local repository)
+Github 처럼 다른 곳에서 접속할 수 있는 공간에 저장되어있는 것을 원격 repo(remote repository)
+push : 로컬 repo의 commit들을 원격 repo에 반영하는 것
+pull : 원격 repo의 commit 들을 로컬 repo에 반영하는 것
